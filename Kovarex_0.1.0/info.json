@@ -1,0 +1,9 @@
+{
+  "name": "Kovarex",
+  "version": "0.1.0",
+  "title": "Kovarex",
+  "author": "Khorlane",
+  "description": "Removes the Space Science dependency from Kovarex enrichment and sets its cost to 300 red, green, and blue science packs.",
+  "factorio_version": "2.0",
+  "dependencies": ["base"]
+}
