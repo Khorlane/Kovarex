@@ -1,6 +1,6 @@
 {
   "name": "Kovarex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Kovarex",
   "author": "Khorlane",
   "description": "Removes the Space Science dependency from Kovarex enrichment and sets its cost to 300 red, green, and blue science packs.",

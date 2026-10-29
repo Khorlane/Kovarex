@@ -1,7 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2026-10-29
+  Changes:
+    - Updated Factorio version target to 2.1.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2026-06-21
   Changes:
-    - Updated Factorio version target to 2.1.
     - Removes the Space Science prerequisite from Kovarex enrichment.
     - Changes Kovarex enrichment research cost to 300 red, 300 green, and 300 blue science packs.
